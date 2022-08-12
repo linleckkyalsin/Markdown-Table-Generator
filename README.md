@@ -53,3 +53,18 @@ Value1,Value2,Value3
 | 	Value1	| 	Value2	| 	Value3	 | 
 | 	Value1	| 	Value2	| 	Value3	 | 
 | 	Value1	| 	Value2	| 	Value3	 | 
+
+| 	変数の命名規則	 | 	記述例    |
+| 	:-----:	       | 	:-----:	 | 
+| 	Value1	| 	Value2	| 	
+| 	Value1	| 	Value2	| 	
+| 	Value1	| 	Value2	| 	
+| 	Value1	| 	Value2	| 	
+| 	Value1	| 	Value2	| 	
+
+| 変数の命名規則   | 記述例                |
+| :------------: | :-----------------:  |
+| パスカルケース  | String ProductName;  |
+| キャメルケース  | String productName;  |
+| スネークケース  | String product_name; |
+| ケバブケース    | String product-name; |
